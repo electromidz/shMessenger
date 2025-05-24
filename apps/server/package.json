@@ -1,9 +1,0 @@
-{
-  "name": "@sh-messenger/server",
-  "version": "0.0.1",
-  "private": true,
-  "nx": {
-    "name": "shMessengerServer"
-  },
-  "dependencies": {}
-}
